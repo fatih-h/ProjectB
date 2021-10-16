@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  background-color: #008080;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+header {
+  background-color: #2e354f;
+  color: #fff;
+  padding-top: 25px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+
+.first-text {
+  padding-bottom: 40px;
+}
+[type="button"] {
+  color: #fff;
+  border: 0px;
+  border-radius: 10px;
+  padding: 10px 25px;
+  margin: 25px 100px 40px;
+  font-size: 18px;
+}
+.orange-btn {
+  background-color: #ef5839;
+}
+
+.green-btn {
+  background-color: #185c43;
+}
+
+main {
+  margin: 0 200px;
+}
+.iuc-img {
+  width: 60%;
+}
+h3 {
+  color: #2e354f;
+}
+p {
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 60px;
+  margin: 0 100px;
+  font-size: 16px;
+}
+.welcome-text {
+  margin: 20px 0 100px;
+}

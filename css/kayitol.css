@@ -1,0 +1,66 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  color: #2e354f;
+  background-color: #008080;
+  margin: 0px;
+  text-align: center;
+}
+
+header {
+  display: block;
+  background-color: #2e354f;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+
+header h1 {
+  margin: 0px;
+}
+
+main form {
+  background-color: #f4f4f4;
+  display: inline-block;
+  margin: 0px;
+  border-radius: 15px;
+  padding: 10px 20px;
+  width: 70%;
+}
+main form label {
+  display: inline-block;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+main form input[type="text"] {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px 15px;
+  border: 0.1px solid gray;
+  border-radius: 7px;
+}
+
+main form input[type="submit"] {
+  margin-left: 10%;
+}
+
+main form input[type="button"],
+main form input[type="submit"] {
+  box-sizing: border-box;
+  border: 0px;
+  color: white;
+  border-radius: 10px;
+  padding: 15px 20px;
+  margin-top: 35px;
+  margin-bottom: 25px;
+  width: 40%;
+}
+
+main form input.geriDonButton {
+  background-color: #8b0000;
+}
+main form input.uyeOlButton {
+  background-color: #185c43;
+}

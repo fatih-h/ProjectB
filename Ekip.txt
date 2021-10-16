@@ -1,0 +1,4 @@
+İlayda Gençer - Giriş Yap sayfası html olarak oluşturuldu. Sonrasında Giriş Yap sayfasına özel css oluşturuldu. Text ayarlarında ve fontlarda takımına yardımcı oldu.
+Eyüp Ensar Kara - Kayıt Ol sayfası html olarak oluşturuldu. Sonrasında Kayıt Ol sayfasına özel css oluşturuldu. Ayrıyetten, margin ve padding işlemlerinde yardımcı oldu. CSS'deki display yöntemleriyle düzenlemelerde görev aldı.
+Erkin Mahmatlı - Anasayfa html olarak oluşturuldu. Sonrasında Anasayfa sayfasına özel css oluşturuldu. Gözden kaçan ufak ayrıntılarda takımına yardımcı oldu.
+Fatih Hüseyinoğulları - Genel olarak dosya düzenlemesinde ve internet ortamına deploy etmede görev aldı. Ayrıyetten, html div taglerini özelleştirdi. Anchor taglerle sayfaları bağladı. CSS dosyalarında takım arkadaşlarına yardımcı oldu. 
